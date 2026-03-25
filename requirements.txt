@@ -1,0 +1,8 @@
+# Runtime dependencies inferred from imports in this project.
+numpy
+sentence-transformers
+openai
+python-dotenv
+fastapi
+uvicorn
+pydantic
